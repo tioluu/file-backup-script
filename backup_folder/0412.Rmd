@@ -1,0 +1,12 @@
+---
+title: Automated Analysis of Pap Smear Test Results Using Clinical Attributes for
+  Enhanced Cervical Cancer Diagnostics
+author: "Ipinnuoluwa"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
